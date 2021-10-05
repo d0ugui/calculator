@@ -3,6 +3,7 @@
 ## 📖 Projeto
 
 O projeto consiste em uma calculadora que efetua operações aritméticas básicas.
+O projeto foi baseado no (tutorial)[https://www.youtube.com/watch?v=ZtHyhj2tQUE]
 
 ## 🧪 Tecnologias
 
